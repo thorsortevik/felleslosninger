@@ -215,7 +215,7 @@ uistring:
     description: Teknisk dokumentasjon av Digitaliseringsdirektoratets fellesløsninger # Displays as site description meta tag for site
     copyright: Digitaliseringsdirektoratet # appears in footer
     breadcrumb_home_name: Home # display name for "Home" path in the breadcrumb
-    tableofcontents: Innhold # text that appears before in-page table of contents
+    tableofcontents: # text that appears before in-page table of contents
     expandall: Utvid # appears as text in sidebar to expand all levels
     collapseall: Kollaps # appears as text in sidebar to collapse all levels
     home_btn: Hjem # sends the user to the frontpage
