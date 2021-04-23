@@ -97,6 +97,30 @@ folders:
       - title: Innbyggers autorisasjoner
         jurl: /oidc_api_autorisasjoner.html
 
+- title: Køløsning
+  folderitems:
+
+  - title: Om køløsningen
+    jurl: /ko_kolosning.html
+
+  - title: Arkitektur
+    jurl: /ko_kolosning.html
+
+  - title: Sikkerhet
+    jurl: /ko_sikkerhet.html
+
+  - title: Rolleavklaring
+    jurl: /ko_rolleavklaring.html
+
+  - title: Layout
+    jurl: /ko_layout.html
+
+  - title: Testing
+    jurl: /ko_testing.html
+
+  - title: Prodsetting
+    jurl: /ko_prodsetting.html
+
 - title: Testing
   folderitems:
 
