@@ -3,6 +3,7 @@ title: Om køløsningen
 description: Om køløsningen
 permalink: ko_kolosning.html
 product: ID-porten
+sidebar: oidc
 
 ---
 
