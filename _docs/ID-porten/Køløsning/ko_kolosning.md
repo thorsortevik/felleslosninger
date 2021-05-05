@@ -17,4 +17,8 @@ Kø-løsningen bidrar til stabile tjenester for innbyggerne og god brukeroppleve
 
 Helt enkelt, så er dette en sky-basert løsning som ligger mellom kunden og ID-porten. Den fungerer som et virtuelt venterom der brukeren får tildelt sin plass i køen, etter prinsippet først inn – først ut. Kunder som tar i bruk kø-løsningen kan gjøre tilpasninger i informasjon og layout, slik at dere kan tilpasse budskapet til deres brukergruppe.
 
-![QueueIT](assets\queueit.gif)]
+Løsningen er levert av Queue-IT.
+
+![Queue-IT](assets\queueit.gif)
+
+Bilde er hentet fra: 
